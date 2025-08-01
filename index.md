@@ -127,4 +127,5 @@ Bootcamp capstone project, created during the Coding Dojo program.
 
 ---
 
+Scheduler:
 <img src="./scheduler-image.png" alt="Custom Scheduler Service Screenshot" style="width:100%; max-width:800px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
