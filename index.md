@@ -138,6 +138,6 @@ Scheduler:
   }
 
   a { color: #58a6ff; }
-  h1, h2, h3, b { color: #f0f6fc; }
+  h1, h2, h3, b, strong { color: #f0f6fc; }
 </style>
 
