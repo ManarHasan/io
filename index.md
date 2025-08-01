@@ -34,9 +34,9 @@ Contributed to a modular backend system supporting gamification mechanics, CMS f
 
 ### 🕒 Job Scheduling System
 
-<img src="./scheduler-image.png" alt="Custom Scheduler Service Screenshot" style="width:100%; max-width:800px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-
 > This custom NestJS scheduler uses `dayjs.tz` for timezone-aware triggers. It handles retries, in-progress states, failure recovery, and emits events that are expected to update their own `runAt` timestamps.
+
+Refer to image at the bottom of the file.
 
 ---
 
@@ -126,3 +126,5 @@ Bootcamp capstone project, created during the Coding Dojo program.
 - Custom scheduling and task automation module using NestJS for non-game apps
 
 ---
+
+<img src="./scheduler-image.png" alt="Custom Scheduler Service Screenshot" style="width:100%; max-width:800px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
