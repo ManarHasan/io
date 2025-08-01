@@ -129,3 +129,15 @@ Bootcamp capstone project, created during the Coding Dojo program.
 
 Scheduler:
 <img src="./scheduler-image.png" alt="Custom Scheduler Service Screenshot" style="width:100%; max-width:800px; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+
+<style>
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  a { color: #58a6ff; }
+  h1, h2, h3 { color: #f0f6fc; }
+</style>
+
