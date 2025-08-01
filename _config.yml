@@ -1,0 +1,7 @@
+title: "Manar Hasan – Backend Developer Portfolio"
+description: "Backend Engineer · Game Dev Enthusiast · Open to Opportunities"
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
